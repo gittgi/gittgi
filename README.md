@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 이전의 사용자! gittgi 입니다
 
 <!--
 **gittgi/gittgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gittgi&show_icons=true&theme=radical)
